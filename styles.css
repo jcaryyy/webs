@@ -39,14 +39,12 @@ display: start;
   border-radius: 10px;
   padding: 2px;
 .n{
-padding:2px;
 display: start;
   justify-content: start;
   align-items: start;
    font-style: italic;
 }
 .hhh{
-    padding: 60px;
     display: flex;
     position: relative;
 justify-content:center;
