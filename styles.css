@@ -11,7 +11,7 @@ body{
     border-radius: 10px;
 }
 .caja1 {
- 
+ padding:2px;
   margin: 5vh;
   background: #A0C5CF;
   width: 460px;
@@ -21,7 +21,7 @@ body{
   right: 0;
 }
 .caja2{
-
+padding:2px;
   margin: 5vh;
   background:#A0C5CF;
   width: 190px;
