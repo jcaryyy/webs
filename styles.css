@@ -46,8 +46,7 @@ display: start;
 }
 .hhh{
     display: flex;
-    position: relative;
-justify-content:center;
-align-items: center;
-left: 100px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
