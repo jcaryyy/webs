@@ -44,9 +44,10 @@ display: start;
   align-items: start;
    font-style: italic;
 }
-.hhh{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+.hhh {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
 }
