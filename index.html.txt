@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1  class="title">feliz cumpleaños mama!</h1>
+  </body>
+<div class="caja1">
+<img src="https://pdftourl.net/images/1790872655647-5442146f-0310-4ee8-b167-94a293dc0931.jpg" width="230px" class="y"/>
+<h4 class="n">Feliz cumpleaños, mamá.
+
+Hoy cumples 37 años y quiero aprovechar este día tan especial para decirte cuánto te quiero y lo importante que eres para mí. Gracias por estar siempre a mi lado, por cuidarme, apoyarme, escucharme y darme todo tu cariño.
+
+Sé que no siempre te digo lo mucho que te quiero, pero quiero que sepas que eres una de las personas más importantes de mi vida. Gracias por cada abrazo, cada consejo, cada sonrisa y por todos los momentos que hemos compartido juntos.
+
+Espero que hoy disfrutes muchísimo de tu día, que sonrías, que seas muy feliz y que todos tus deseos se hagan realidad. Te mereces todo lo bonito del mundo.
+
+Ojalá podamos celebrar muchísimos cumpleaños más juntos y seguir creando recuerdos increíbles.
+
+Feliz 37 cumpleaños, mamá.
+
+Te quiero muchísimo, más de lo que las palabras pueden explicar. ❤</h4>
+</div>
+
+<div class="caja2">
+  <h4 class="h">Feliz cumpleaños, mamá
+
+Hoy cumples 37 años y quiero aprovechar este día tan especial para decirte cuánto te quiero. Eres una de las personas más importantes de mi vida y no sé qué haría sin ti.
+
+Gracias por estar siempre a mi lado, por cuidarme, apoyarme, escucharme y quererme incluso en los momentos difíciles. Todo lo que haces por mí significa muchísimo, aunque a veces no sepa cómo expresártelo.
+
+Espero que hoy disfrutes muchísimo, que sonrías, que te llenen de cariño y que todos tus deseos se hagan realidad. Te mereces todo lo bonito del mundo porque eres una persona increíble y una mamá maravillosa.
+
+Te quiero muchísimo, mamá.Espero poder seguir compartiendo contigo muchísimos cumpleaños más. ¡Felices 37! </h4>
+</div>
+</html>

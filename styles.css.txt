@@ -1,0 +1,48 @@
+body{
+  background: #0092BA;
+}
+.title {
+    background:#A0C5CF;
+  font-style: italic;
+  display: flex;
+  justify-content: center;
+ align-items: center;
+  margin: 5vh;
+    border-radius: 10px;
+}
+.caja1 {
+ 
+  margin: 5vh;
+  background: #A0C5CF;
+  width: 460px;
+  height: 520px;
+  border-radius: 10px;
+  padding: 2px;
+  position: absolute;
+  right: 0;
+}
+.caja2{
+  padding: 2px;
+  margin: 5vh;
+  background:#A0C5CF;
+  width: 190px;
+  height: 580px;
+  border-radius: 10px;
+}
+.h{
+padding:2px;
+display: start;
+  justify-content: start;
+  align-items: start;
+   font-style: italic;
+}
+.y{
+  border-radius: 10px;
+  padding: 2px;
+.n{
+padding:2px;
+display: start;
+  justify-content: start;
+  align-items: start;
+   font-style: italic;
+}
